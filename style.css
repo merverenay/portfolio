@@ -1,0 +1,18 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    }
+
+    nav ul {
+        list-style: none;
+        display: flex;/* yan yana getiriyor*/
+       justify-content: center;/* 3 yaxiyi da ortaya getiriyor*/ 
+        }
+        nav li {
+        margin: 0 20px;/*yazilarin arasini aciyor*/
+        }
+        nav a {
+        text-decoration: none;
+        color: #fff;
+        }
